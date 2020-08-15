@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="vector.jpg" alt="karan-vector" height="300px" />
+<img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/vector.jpg" alt="karan-vector" height="300px" />
 
 <br />
 
