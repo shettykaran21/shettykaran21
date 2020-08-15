@@ -4,9 +4,12 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/vector.jpg" alt="karan-vector" height="300px" />
-
-<br />
+<div align="center">
+   <img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/vector.jpg" alt="karan-vector" height="300px" />
+</div>
+<div align="center">
+   (Flexing Illustrator Skills 😁)
+</div>
 
 ### 🌍 Let's Connect!
 
@@ -33,7 +36,7 @@
 
 ---
 
-#### Github Stats
+### 📈 Github Stats
 
 <img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff" />
 
