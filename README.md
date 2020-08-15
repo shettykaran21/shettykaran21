@@ -1,8 +1,17 @@
 ## Hi, I'm Karan 👨‍💻
 
+#### I am a B.Tech. student at Vishwakarma Institute of Technology, Pune.
+
+<br />
+
 <img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/Puttu-Vector_Wallpaper-Cropped.jpg" alt="karan-vector" height="300px" />
 
-#### I am a B.Tech. student at Vishwakarma Institute of Technology, Pune.
+<br />
+
+### 🌍 Let's Connect!
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -25,4 +34,7 @@
 
 #### Github Stats
 
-<img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=0366d6&bg_color=24292e&text_color=79b8ff" />
+
+[linkedin]: https://linkedin.com/in/shettykaran21
+[twitter]: https://twitter.com/shettykaran21
