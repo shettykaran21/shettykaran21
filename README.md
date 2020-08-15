@@ -1,19 +1,12 @@
 ## Hi, I'm Karan 👨‍💻
 
-<img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/Puttu-Vector_Wallpaper-Cropped.jpg" alt="karan-vector" >
+<img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/Puttu-Vector_Wallpaper-Cropped.jpg" alt="karan-vector" height="300px" />
 
-#### I am a B.Tech. student at Vishwakarma Institute of Technology, Pune.</p>
+#### I am a B.Tech. student at Vishwakarma Institute of Technology, Pune.
 
- <p>
-  <a href="https://www.linkedin.com/in/shettykaran21/" target="_blank">
-   <img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/icons8-linkedin (1).svg" alt="linkedin" >
-  </a> &nbsp;
-  <a href="https://twitter.com/shettykaran21" target="_blank">
-   <img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/icons8-twitter.svg" alt="linkedin" >
-   </a>
-</p>
+<br />
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,7 +21,8 @@
 <br />
 <br />
 
-----
+---
 
 #### Github Stats
-<img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true" />
+
+<img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&theme=dracula" />
