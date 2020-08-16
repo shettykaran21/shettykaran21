@@ -28,7 +28,6 @@
 </table>
 
 <br />
-<br />
 
 ### 🔧 Languages and Tools:
 
@@ -67,7 +66,6 @@
    </tr>
 </table>
 
-<br />
 <br />
 
 ---
