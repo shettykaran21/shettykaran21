@@ -13,7 +13,7 @@
 <table>
    <tr>
       <td>
-         <a href="https://linkedin.com/shettykaran21">
+         <a href="https://linkedin.com/in/shettykaran21">
             <img align="left" alt="shettykaran21 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
          </a>
       </td>
@@ -62,7 +62,7 @@
          <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
       </td>
       <td>
-         <h4>WSL</h4>
+         <h4>WSL2</h4>
       </td>
    </tr>
 </table>
