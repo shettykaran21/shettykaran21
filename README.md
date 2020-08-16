@@ -13,7 +13,7 @@
 <table>
    <tr>
       <td>
-         <a href="https://linkedin.com/in/shettykaran21">
+         <a href="https://linkedin.com/inshettykaran21">
             <img align="left" alt="shettykaran21 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
          </a>
       </td>
