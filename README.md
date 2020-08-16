@@ -1,6 +1,7 @@
 ## Hi, I'm Karan 👨‍💻
 
-#### I am a B.Tech. student at Vishwakarma Institute of Technology, Pune.
+#### B.Tech. student at Vishwakarma Institute of Technology, Pune.
+![](https://komarev.com/ghpvc/?username=shettykaran21&color=79b8ff)
 
 <br />
 
@@ -8,7 +9,6 @@
    <img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/vector.jpg" alt="karan-vector" height="300px" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=shettykaran21&color=79b8ff)
 
 ### 🌍 Let's Connect!
 
@@ -62,7 +62,7 @@
          <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
       </td>
       <td>
-         <h3>WSL</h3>
+         <h4>WSL</h4>
       </td>
    </tr>
 </table>
@@ -75,8 +75,6 @@
 ### 📈 Github Stats
 
 <img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/>
-
-### Helo World
 
 <br />
 
