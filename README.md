@@ -12,6 +12,9 @@
 
 [<img align="left" alt="shettykaran21 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/shettykaran21)
 [<img align="left" alt="shettykaran21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shettykaran21)
+<a href="https://dev.to/shettykaran21">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Karan Shetty's DEV Profile" height="30" width="30">
+</a>
 
 <br />
 
