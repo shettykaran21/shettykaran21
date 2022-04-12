@@ -8,13 +8,11 @@
 
 <img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/vector.jpg" alt="karan-vector" height="300px" />
 
-### 🌍 Let's Connect!
+### 🌍 Connect with me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-[<img align="left" alt="shettykaran21 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/shettykaran21)
-[<img align="left" alt="shettykaran21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shettykaran21)
-<a href="https://dev.to/shettykaran21">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Karan Shetty's DEV Profile" height="30" width="30">
-</a>
+<a href = 'https://linkedin.com/in/shettykaran21'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://twitter.com/shettykaran21'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://www.github.com/shettykaran21'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br />
 
@@ -39,9 +37,17 @@
 
 ### 📈 Github Stats
 
-<img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/>
+<!-- <img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/> -->
 
 <br />
+
+| ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=shettykaran21&show_icons=true&theme=radical)             | ![Karan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shettykaran21&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettykaran21&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shettykaran21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=radical) |
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 [linkedin]: https://linkedin.com/in/shettykaran21
 [twitter]: https://twitter.com/shettykaran21
