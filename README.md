@@ -1,6 +1,6 @@
 ## Hi, I'm Karan 👨‍💻
 
-#### B.Tech. student at Vishwakarma Institute of Technology, Pune.
+#### Software Engineer at Integral Ad Science.
 
 ![](https://komarev.com/ghpvc/?username=shettykaran21&color=79b8ff)
 
