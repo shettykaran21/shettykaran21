@@ -31,8 +31,7 @@
 <h1> Github Stats </h1>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shettykaran21&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettykaran21&langs_count=8&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Github Stars](https://github-readme-stats.vercel.app/api?username=shettykaran21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettykaran21&langs_count=8&theme=blueberry&count_private=true&hide_border=true&line_height=20&layout=compact)
 
 <h2>Programming Humor for you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="20" height="20" /></h2>
 
