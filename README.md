@@ -2,7 +2,7 @@
     <img src="./assets/logo.svg" alt="karan-shetty-logo" height="200px" width="100%" />
 </div>
 
-<div style="display:flex; justify-content:center; align-items:center; gap:5px; margin:1rem 0;">
+<div style="display:flex; justify-content:center; align-items:center; gap:5px; margin:2rem 0; width:100%;">
     <a href="https://linkedin.com/in/shettykaran21" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
