@@ -1,5 +1,5 @@
 <div style="width: 100%; display:flex; justify-content:center;">
-    <img src="./assets/logo.svg" alt="karan-vector" height="200px" text-align="center" />
+    <img src="./assets/logo.svg" alt="karan-shetty-logo" height="200px" width="100%" />
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 1rem 0;">
