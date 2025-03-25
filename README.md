@@ -1,12 +1,12 @@
-<div style="width:100%; display:flex; justify-content:center;">
+<div style="width:100%;">
     <img src="./assets/logo.svg" alt="karan-shetty-logo" height="200px" width="100%" />
 </div>
 
 <div style="
         margin: 2rem 0;
         justify-content: center;
-        display: flex;
-        gap: 1rem;
+        display:flex;
+        gap:1rem;
     ">
     <a href="https://linkedin.com/in/shettykaran21" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
