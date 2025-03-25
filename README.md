@@ -16,8 +16,8 @@
 <!-- Skills -->
 <p>
     <h1>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" />
         Skills
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" />
     </h1>
     <img src="https://skillicons.dev/icons?i=react,spring,nodejs,expressjs,redux,next" /> <br />
     <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,c,html,css,python,solidity" /> <br />
@@ -28,11 +28,11 @@
 
 <br /><br />
 
-<h1> Github Stats </h1>
+<h1> Github Stats ⚡️ </h1>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shettykaran21&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettykaran21&langs_count=8&theme=blueberry&count_private=true&hide_border=true&line_height=20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettykaran21&theme=blueberry&count_private=true&hide_border=true&line_height=20&layout=compact)
 
 <h2>Programming Humor for you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="20" height="20" /></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry&hideBorder&layout=compact)
