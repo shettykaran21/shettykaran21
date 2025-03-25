@@ -17,7 +17,7 @@
 <p>
     <h1>
         Skills
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" />
     </h1>
     <img src="https://skillicons.dev/icons?i=react,spring,nodejs,expressjs,redux,next" />
     <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,c,html,css,python,solidity" />
