@@ -19,10 +19,10 @@
         Skills
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" />
     </h1>
-    <img src="https://skillicons.dev/icons?i=react,spring,nodejs,expressjs,redux,next" /> <br />
-    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,c,html,css,python,solidity" /> <br />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <br />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins" /> <br />
+    <img src="https://skillicons.dev/icons?i=react,spring,nodejs,expressjs,redux,next" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,c,html,css,python,solidity" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins" />
     <img src="https://skillicons.dev/icons?i=postman,notion,figma,ai" />
 </p>
 
