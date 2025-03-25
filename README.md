@@ -2,7 +2,7 @@
     <img src="./assets/logo.svg" alt="karan-shetty-logo" height="200px" width="100%" />
 </div>
 
-<br />
+<br /><br /><br />
 
 <p>
     <a href="https://linkedin.com/in/shettykaran21" target="_blank" rel="noopener noreferrer">
