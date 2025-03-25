@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=postman,notion,figma,ai" />
 </p>
 
-<br /><br />
+<br />
 
 <h1> Github Stats ⚡️ </h1>
 
