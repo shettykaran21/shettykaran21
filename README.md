@@ -2,12 +2,9 @@
     <img src="./assets/logo.svg" alt="karan-shetty-logo" height="200px" width="100%" />
 </div>
 
-<div style="
-        margin: 2rem 0;
-        justify-content: center;
-        display:flex;
-        gap:1rem;
-    ">
+<br />
+
+<p>
     <a href="https://linkedin.com/in/shettykaran21" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -26,11 +23,12 @@
     <a href="https://www.instagram.com/karan_shetty_2110/" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-</div>
+</p>
 
-### 🔧 Languages and Tools:
+<br />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+## Skills
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -40,16 +38,13 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
-<!-- <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" /> -->
 <h4>WSL2</h4>
 
 <br />
 
 ---
 
-### 📈 Github Stats
-
-<!-- <img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/> -->
+## 📈 Github Stats
 
 <br />
 
