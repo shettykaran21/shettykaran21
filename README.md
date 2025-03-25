@@ -2,9 +2,9 @@
     <img src="./assets/logo.svg" alt="karan-shetty-logo" height="200px" width="100%" />
 </div>
 
-<br /><br /><br />
+<br /><br />
 
-<p>
+<p align="center">
     <a href="https://linkedin.com/in/shettykaran21" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -30,6 +30,7 @@
 ## Skills
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img >
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -44,9 +45,7 @@
 
 ---
 
-## 📈 Github Stats
-
-<br />
+<h2> 📈 Github Stats </h2>
 
 | ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=shettykaran21&show_icons=true&theme=radical)              | ![Karan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shettykaran21&theme=radical)                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,6 +54,3 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-[linkedin]: https://linkedin.com/in/shettykaran21
-[twitter]: https://twitter.com/shettykaran21
