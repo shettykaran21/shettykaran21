@@ -25,25 +25,8 @@
     </a>
 </p>
 
-<p >
-    <a href="https://linkedin.com/in/shettykaran21">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://leetcode.com/u/shettykaran21/">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-    </a>
-    <a href="https://www.reddit.com/user/shettykaran21/">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-    </a>
-    <a href="https://x.com/shettykaran21">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-    </a>
-    <a href="https://www.github.com/shettykaran21">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/karan_shetty_2110/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25/>
-    </a>
+<p>
+    <a href="https://linkedin.com/in/shettykaran21"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://leetcode.com/u/shettykaran21/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a><a href="https://www.reddit.com/user/shettykaran21/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a><a href="https://x.com/shettykaran21"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="https://www.github.com/shettykaran21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://www.instagram.com/karan_shetty_2110/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25/></a>
 </p>
 
 <br />
