@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center;">
+<div style="width: 100%; display:flex; justify-content:center;">
     <img src="./assets/logo.svg" alt="karan-vector" height="200px" text-align="center" />
 </div>
 
