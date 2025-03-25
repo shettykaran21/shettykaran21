@@ -15,10 +15,7 @@
 
 <!-- Skills -->
 <p>
-    <h1>
-        Skills
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" />
-    </h1>
+    <h1>Skills 👾</h1>
     <img src="https://skillicons.dev/icons?i=react,spring,nodejs,expressjs,redux,next" />
     <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,c,html,css,python,solidity" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
